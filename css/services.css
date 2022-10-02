@@ -1,0 +1,46 @@
+.services {
+    margin-bottom: 44px;
+}
+
+.news {
+    min-width: 825px;
+    width: 100%;
+}
+
+.news__h {
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #686868;
+    margin-bottom: 22px;
+    padding-left: 18px;
+}
+
+.news__list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.news__p {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    padding: 15px;
+    color: #545454;
+    background: white;
+    border-radius: 8px;
+}
+
+.h{
+    
+}
+
+.services__wrap{
+    display: flex;
+    gap: 30px;
+}
+
