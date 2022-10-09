@@ -67,3 +67,17 @@
     background: #2A86B1;
 }
 
+@media screen and (max-width:460px) {
+    .banner__wrap{
+        padding: 0 15px;
+    }
+    
+}
+
+@media screen and (max-width:360px) {
+    .banner__h{
+        font-size: 38px;
+        line-height: 45px;
+    }
+    
+}

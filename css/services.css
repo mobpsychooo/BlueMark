@@ -38,7 +38,6 @@
 .services__wrap {
     display: flex;
     align-items: flex-start;
-    
     gap: 30px;
 }
 
@@ -68,4 +67,14 @@
     font-size: 14px;
     font-weight: 300;
     color: #323232;
+}
+
+@media screen and (max-width:1140px) {
+    .services__wrap{
+        flex-direction: column;
+    }
+    
+    .services__cards{
+        
+    }
 }
