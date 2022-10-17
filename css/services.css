@@ -73,8 +73,10 @@
     .services__wrap{
         flex-direction: column;
     }
-    
-    .services__cards{
+}
+
+@media screen and (max-width:860px) {
+    .news__list{
         
     }
 }

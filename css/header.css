@@ -46,4 +46,9 @@
         gap: 20px;
     }
 }
+@media screen and (max-width:322px) {
+    .header__nav{
+        gap: 1px;
+    }
+}
 
